@@ -150,9 +150,9 @@ public class Booking extends AppCompatActivity {
             for(ParseObject object : objects)
                 avail.set(slots.indexOf(object.get("Time").toString()),"Booked");}
 
-        Log.i("Avail",avail.toString());
-        onCurrentDay = Date.getText().equals(date.format(today).toUpperCase());
 
+        onCurrentDay = Date.getText().equals(date.format(today).toUpperCase());
+        Log.i("currentDay", (String) Date.getText());
         bookingAdapter.notifyDataSetChanged();
         loadingScreen.stoploadingScreen();
 
@@ -355,7 +355,7 @@ public class Booking extends AppCompatActivity {
             bookingAdapter.notifyDataSetChanged();
         }
         Log.i("Avail", avail.toString());
-        if (avail.get(pos).equals("Booked") || timeavail.get(pos).equals("Unavailable")) {
+        if (avail.get(pos).equals("Booked") || (timeavail.get(pos).equals("Unavailable")&&onCurrentDay)) {
             Log.i("avail", avail.get(pos));
             Toast.makeText(this, "Book another session", Toast.LENGTH_SHORT).show();
 
