@@ -1,0 +1,392 @@
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/build/intermediates/merged_manifests/release/AndroidManifest.xml:31
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/build/intermediates/merged_manifests/release/AndroidManifest.xml:221
+-keep class androidx.lifecycle.ProcessLifecycleOwnerInitializer { <init>(); }
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/build/intermediates/merged_manifests/release/AndroidManifest.xml:77
+-keep class com.google.android.gms.ads.AdActivity { <init>(); }
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/build/intermediates/merged_manifests/release/AndroidManifest.xml:93
+-keep class com.google.android.gms.analytics.AnalyticsJobService { <init>(); }
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/build/intermediates/merged_manifests/release/AndroidManifest.xml:83
+-keep class com.google.android.gms.analytics.AnalyticsReceiver { <init>(); }
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/build/intermediates/merged_manifests/release/AndroidManifest.xml:89
+-keep class com.google.android.gms.analytics.AnalyticsService { <init>(); }
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/build/intermediates/merged_manifests/release/AndroidManifest.xml:99
+-keep class com.google.android.gms.appinvite.PreviewActivity { <init>(); }
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/build/intermediates/merged_manifests/release/AndroidManifest.xml:118
+-keep class com.google.android.gms.auth.api.signin.RevocationBoundService { <init>(); }
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/build/intermediates/merged_manifests/release/AndroidManifest.xml:109
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity { <init>(); }
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/build/intermediates/merged_manifests/release/AndroidManifest.xml:76
+-keep class com.google.android.gms.cast.framework.ReconnectionService { <init>(); }
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/build/intermediates/merged_manifests/release/AndroidManifest.xml:73
+-keep class com.google.android.gms.cast.framework.media.MediaIntentReceiver { <init>(); }
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/build/intermediates/merged_manifests/release/AndroidManifest.xml:75
+-keep class com.google.android.gms.cast.framework.media.MediaNotificationService { <init>(); }
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/build/intermediates/merged_manifests/release/AndroidManifest.xml:130
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/build/intermediates/merged_manifests/release/AndroidManifest.xml:169
+-keep class com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver { <init>(); }
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/build/intermediates/merged_manifests/release/AndroidManifest.xml:183
+-keep class com.google.android.gms.measurement.AppMeasurementJobService { <init>(); }
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/build/intermediates/merged_manifests/release/AndroidManifest.xml:164
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/build/intermediates/merged_manifests/release/AndroidManifest.xml:179
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/build/intermediates/merged_manifests/release/AndroidManifest.xml:150
+-keep class com.google.android.gms.tagmanager.TagManagerPreviewActivity { <init>(); }
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/build/intermediates/merged_manifests/release/AndroidManifest.xml:145
+-keep class com.google.android.gms.tagmanager.TagManagerService { <init>(); }
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/build/intermediates/merged_manifests/release/AndroidManifest.xml:123
+-keep class com.google.firebase.auth.internal.FederatedSignInActivity { <init>(); }
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/build/intermediates/merged_manifests/release/AndroidManifest.xml:189
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(); }
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/build/intermediates/merged_manifests/release/AndroidManifest.xml:203
+-keep class com.google.firebase.iid.FirebaseInstanceIdService { <init>(); }
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/build/intermediates/merged_manifests/release/AndroidManifest.xml:138
+-keep class com.google.firebase.messaging.FirebaseMessagingService { <init>(); }
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/build/intermediates/merged_manifests/release/AndroidManifest.xml:211
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/build/intermediates/merged_manifests/release/AndroidManifest.xml:46
+-keep class com.parse.starter.AppointmentDisplayForDoctors { <init>(); }
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/build/intermediates/merged_manifests/release/AndroidManifest.xml:47
+-keep class com.parse.starter.AppointmentDisplayForPatients { <init>(); }
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/build/intermediates/merged_manifests/release/AndroidManifest.xml:38
+-keep class com.parse.starter.BankAccountDetails { <init>(); }
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/build/intermediates/merged_manifests/release/AndroidManifest.xml:65
+-keep class com.parse.starter.Booking { <init>(); }
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/build/intermediates/merged_manifests/release/AndroidManifest.xml:45
+-keep class com.parse.starter.ChatScreen { <init>(); }
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/build/intermediates/merged_manifests/release/AndroidManifest.xml:39
+-keep class com.parse.starter.ChatScreenPoint { <init>(); }
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/build/intermediates/merged_manifests/release/AndroidManifest.xml:61
+-keep class com.parse.starter.DoctorProfile { <init>(); }
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/build/intermediates/merged_manifests/release/AndroidManifest.xml:43
+-keep class com.parse.starter.DoctorProfileEditActivity { <init>(); }
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/build/intermediates/merged_manifests/release/AndroidManifest.xml:48
+-keep class com.parse.starter.DoctorProfileFillingActivity { <init>(); }
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/build/intermediates/merged_manifests/release/AndroidManifest.xml:49
+-keep class com.parse.starter.DoctorsList { <init>(); }
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/build/intermediates/merged_manifests/release/AndroidManifest.xml:62
+-keep class com.parse.starter.HomeActivity { <init>(); }
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/build/intermediates/merged_manifests/release/AndroidManifest.xml:64
+-keep class com.parse.starter.LoginActivity { <init>(); }
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/build/intermediates/merged_manifests/release/AndroidManifest.xml:41
+-keep class com.parse.starter.LoginScreen { <init>(); }
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/build/intermediates/merged_manifests/release/AndroidManifest.xml:67
+-keep class com.parse.starter.NotificationBroadCaster { <init>(); }
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/build/intermediates/merged_manifests/release/AndroidManifest.xml:44
+-keep class com.parse.starter.OldAppointments { <init>(); }
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/build/intermediates/merged_manifests/release/AndroidManifest.xml:63
+-keep class com.parse.starter.PatientProfile { <init>(); }
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/build/intermediates/merged_manifests/release/AndroidManifest.xml:42
+-keep class com.parse.starter.PatientProfileEditingActivity { <init>(); }
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/build/intermediates/merged_manifests/release/AndroidManifest.xml:50
+-keep class com.parse.starter.PatientProfileFillingActivity { <init>(); }
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/build/intermediates/merged_manifests/release/AndroidManifest.xml:40
+-keep class com.parse.starter.PaymentActivity { <init>(); }
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/build/intermediates/merged_manifests/release/AndroidManifest.xml:51
+-keep class com.parse.starter.SplashScreen { <init>(); }
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/build/intermediates/merged_manifests/release/AndroidManifest.xml:31
+-keep class com.parse.starter.StarterApplication { <init>(); }
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ef8a364a6a39421e69c96cf68eeb3e63/appcompat-1.1.0/res/layout/abc_alert_dialog_button_bar_material.xml:43
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ef8a364a6a39421e69c96cf68eeb3e63/appcompat-1.1.0/res/layout/abc_alert_dialog_material.xml:52
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ef8a364a6a39421e69c96cf68eeb3e63/appcompat-1.1.0/res/layout/abc_alert_dialog_title_material.xml:57
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ae67d481176994a76afa6f312b4e8a78/material-1.1.0/res/layout/mtrl_alert_dialog.xml:51
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ae67d481176994a76afa6f312b4e8a78/material-1.1.0/res/layout/mtrl_alert_dialog_actions.xml:45
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ae67d481176994a76afa6f312b4e8a78/material-1.1.0/res/layout/mtrl_alert_dialog_title.xml:41
+-keep class android.widget.Space { <init>(...); }
+
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ef8a364a6a39421e69c96cf68eeb3e63/appcompat-1.1.0/res/layout/abc_select_dialog_material.xml:23
+-keep class androidx.appcompat.app.AlertController$RecycleListView { <init>(...); }
+
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ef8a364a6a39421e69c96cf68eeb3e63/appcompat-1.1.0/res/layout/abc_action_menu_item_layout.xml:17
+-keep class androidx.appcompat.view.menu.ActionMenuItemView { <init>(...); }
+
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ef8a364a6a39421e69c96cf68eeb3e63/appcompat-1.1.0/res/layout/abc_expanded_menu_layout.xml:17
+-keep class androidx.appcompat.view.menu.ExpandedMenuView { <init>(...); }
+
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ef8a364a6a39421e69c96cf68eeb3e63/appcompat-1.1.0/res/layout/abc_cascading_menu_item_layout.xml:20
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ef8a364a6a39421e69c96cf68eeb3e63/appcompat-1.1.0/res/layout/abc_list_menu_item_layout.xml:17
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ef8a364a6a39421e69c96cf68eeb3e63/appcompat-1.1.0/res/layout/abc_popup_menu_item_layout.xml:17
+-keep class androidx.appcompat.view.menu.ListMenuItemView { <init>(...); }
+
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ef8a364a6a39421e69c96cf68eeb3e63/appcompat-1.1.0/res/layout/abc_screen_toolbar.xml:27
+-keep class androidx.appcompat.widget.ActionBarContainer { <init>(...); }
+
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ef8a364a6a39421e69c96cf68eeb3e63/appcompat-1.1.0/res/layout/abc_action_mode_bar.xml:19
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ef8a364a6a39421e69c96cf68eeb3e63/appcompat-1.1.0/res/layout/abc_screen_toolbar.xml:43
+-keep class androidx.appcompat.widget.ActionBarContextView { <init>(...); }
+
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ef8a364a6a39421e69c96cf68eeb3e63/appcompat-1.1.0/res/layout/abc_screen_toolbar.xml:17
+-keep class androidx.appcompat.widget.ActionBarOverlayLayout { <init>(...); }
+
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ef8a364a6a39421e69c96cf68eeb3e63/appcompat-1.1.0/res/layout/abc_action_menu_layout.xml:17
+-keep class androidx.appcompat.widget.ActionMenuView { <init>(...); }
+
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ef8a364a6a39421e69c96cf68eeb3e63/appcompat-1.1.0/res/layout/abc_activity_chooser_view.xml:19
+-keep class androidx.appcompat.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ef8a364a6a39421e69c96cf68eeb3e63/appcompat-1.1.0/res/layout/abc_alert_dialog_material.xml:18
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ae67d481176994a76afa6f312b4e8a78/material-1.1.0/res/layout/mtrl_alert_dialog.xml:17
+-keep class androidx.appcompat.widget.AlertDialogLayout { <init>(...); }
+
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ef8a364a6a39421e69c96cf68eeb3e63/appcompat-1.1.0/res/layout/abc_alert_dialog_button_bar_material.xml:26
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ae67d481176994a76afa6f312b4e8a78/material-1.1.0/res/layout/mtrl_alert_dialog_actions.xml:26
+-keep class androidx.appcompat.widget.ButtonBarLayout { <init>(...); }
+
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ef8a364a6a39421e69c96cf68eeb3e63/appcompat-1.1.0/res/layout/abc_screen_content_include.xml:19
+-keep class androidx.appcompat.widget.ContentFrameLayout { <init>(...); }
+
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ef8a364a6a39421e69c96cf68eeb3e63/appcompat-1.1.0/res/layout/abc_alert_dialog_title_material.xml:45
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ae67d481176994a76afa6f312b4e8a78/material-1.1.0/res/layout/mtrl_alert_dialog_title.xml:36
+-keep class androidx.appcompat.widget.DialogTitle { <init>(...); }
+
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ef8a364a6a39421e69c96cf68eeb3e63/appcompat-1.1.0/res/layout/abc_screen_simple_overlay_action_mode.xml:23
+-keep class androidx.appcompat.widget.FitWindowsFrameLayout { <init>(...); }
+
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ef8a364a6a39421e69c96cf68eeb3e63/appcompat-1.1.0/res/layout/abc_dialog_title_material.xml:22
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ef8a364a6a39421e69c96cf68eeb3e63/appcompat-1.1.0/res/layout/abc_screen_simple.xml:17
+-keep class androidx.appcompat.widget.FitWindowsLinearLayout { <init>(...); }
+
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ef8a364a6a39421e69c96cf68eeb3e63/appcompat-1.1.0/res/layout/abc_search_view.xml:75
+-keep class androidx.appcompat.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ef8a364a6a39421e69c96cf68eeb3e63/appcompat-1.1.0/res/layout/abc_screen_toolbar.xml:36
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/81f715535175574352cfdbd6279d905c/jetified-play-services-cast-framework-12.0.1/res/layout/cast_expanded_controller_activity.xml:28
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/home_screen_toolbar.xml:15
+-keep class androidx.appcompat.widget.Toolbar { <init>(...); }
+
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ef8a364a6a39421e69c96cf68eeb3e63/appcompat-1.1.0/res/layout/abc_screen_simple.xml:25
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ef8a364a6a39421e69c96cf68eeb3e63/appcompat-1.1.0/res/layout/abc_screen_simple_overlay_action_mode.xml:32
+-keep class androidx.appcompat.widget.ViewStubCompat { <init>(...); }
+
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_booking.xml:45
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_booking_edit.xml:118
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_doctor_profile.xml:79
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_patient_profile.xml:25
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/custom_booking_layout.xml:9
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/custom_doctorslist_layout.xml:10
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/custom_grid_layout.xml:21
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/custom_messages_layout.xml:2
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/custom_specialist_layout.xml:2
+-keep class androidx.cardview.widget.CardView { <init>(...); }
+
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_appointment_display_for_doctors.xml:2
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_appointment_display_for_patients.xml:2
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_booking.xml:2
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_booking_edit.xml:2
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_chat_screen.xml:2
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_chat_screen_point.xml:2
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_doctor_profile.xml:24
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_doctors_list.xml:2
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_login.xml:1
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_old_appointments.xml:2
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_patient_profile.xml:1
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_splash.xml:2
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/custom_app_bar.xml:15
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/custom_booking_layout.xml:2
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/custom_doctorslist_layout.xml:2
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/custom_grid_layout.xml:2
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/custom_messages_layout.xml:21
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/custom_specialist_layout.xml:20
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/home_screen_content.xml:2
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/loading_animations.xml:2
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/login_intro_screen.xml:2
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/login_intro_slide1.xml:2
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/login_intro_slide2.xml:2
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/login_intro_slide3.xml:2
+-keep class androidx.constraintlayout.widget.ConstraintLayout { <init>(...); }
+
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_doctor_profile.xml:1
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ae67d481176994a76afa6f312b4e8a78/material-1.1.0/res/layout/design_bottom_sheet_dialog.xml:26
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/home_screen_toolbar.xml:2
+-keep class androidx.coordinatorlayout.widget.CoordinatorLayout { <init>(...); }
+
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ef8a364a6a39421e69c96cf68eeb3e63/appcompat-1.1.0/res/layout/abc_alert_dialog_material.xml:41
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_doctor_profile.xml:66
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_patient_profile.xml:8
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ae67d481176994a76afa6f312b4e8a78/material-1.1.0/res/layout/mtrl_alert_dialog.xml:40
+-keep class androidx.core.widget.NestedScrollView { <init>(...); }
+
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/home_screen_main.xml:2
+-keep class androidx.drawerlayout.widget.DrawerLayout { <init>(...); }
+
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/80d0668019c2cff7882310cc8285750e/mediarouter-1.0.0-alpha5/res/layout/mr_volume_control.xml:43
+-keep class androidx.mediarouter.app.MediaRouteExpandCollapseButton { <init>(...); }
+
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/80d0668019c2cff7882310cc8285750e/mediarouter-1.0.0-alpha5/res/layout/mr_cast_group_volume_item.xml:43
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/80d0668019c2cff7882310cc8285750e/mediarouter-1.0.0-alpha5/res/layout/mr_cast_route_item.xml:53
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/80d0668019c2cff7882310cc8285750e/mediarouter-1.0.0-alpha5/res/layout/mr_controller_volume_item.xml:43
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/80d0668019c2cff7882310cc8285750e/mediarouter-1.0.0-alpha5/res/layout/mr_volume_control.xml:34
+-keep class androidx.mediarouter.app.MediaRouteVolumeSlider { <init>(...); }
+
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/80d0668019c2cff7882310cc8285750e/mediarouter-1.0.0-alpha5/res/layout/mr_controller_material_dialog_b.xml:87
+-keep class androidx.mediarouter.app.OverlayListView { <init>(...); }
+
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_booking.xml:104
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_booking_edit.xml:161
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_chat_screen_point.xml:80
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_doctors_list.xml:62
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/home_screen_content.xml:64
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/80d0668019c2cff7882310cc8285750e/mediarouter-1.0.0-alpha5/res/layout/mr_cast_dialog.xml:23
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/80d0668019c2cff7882310cc8285750e/mediarouter-1.0.0-alpha5/res/layout/mr_picker_dialog.xml:34
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ae67d481176994a76afa6f312b4e8a78/material-1.1.0/res/layout/mtrl_calendar_horizontal.xml:29
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ae67d481176994a76afa6f312b4e8a78/material-1.1.0/res/layout/mtrl_calendar_months.xml:18
+-keep class androidx.recyclerview.widget.RecyclerView { <init>(...); }
+
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/login_intro_screen.xml:11
+-keep class androidx.viewpager.widget.ViewPager { <init>(...); }
+
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/81f715535175574352cfdbd6279d905c/jetified-play-services-cast-framework-12.0.1/res/layout/cast_help_text.xml:2
+-keep class com.google.android.gms.cast.framework.internal.featurehighlight.HelpTextView { <init>(...); }
+
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_appointment_display_for_doctors.xml:10
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_appointment_display_for_patients.xml:9
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_booking_edit.xml:9
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_chat_screen.xml:9
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_chat_screen_point.xml:9
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_doctor_profile.xml:7
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_doctors_list.xml:9
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/custom_app_bar.xml:3
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/home_screen_content.xml:10
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/home_screen_toolbar.xml:9
+-keep class com.google.android.material.appbar.AppBarLayout { <init>(...); }
+
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_doctor_profile.xml:15
+-keep class com.google.android.material.appbar.CollapsingToolbarLayout { <init>(...); }
+
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ae67d481176994a76afa6f312b4e8a78/material-1.1.0/res/layout/test_toolbar.xml:16
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ae67d481176994a76afa6f312b4e8a78/material-1.1.0/res/layout/test_toolbar_custom_background.xml:16
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ae67d481176994a76afa6f312b4e8a78/material-1.1.0/res/layout/test_toolbar_elevation.xml:16
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ae67d481176994a76afa6f312b4e8a78/material-1.1.0/res/layout/test_toolbar_surface.xml:16
+-keep class com.google.android.material.appbar.MaterialToolbar { <init>(...); }
+
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ae67d481176994a76afa6f312b4e8a78/material-1.1.0/res/layout/mtrl_calendar_month_navigation.xml:32
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ae67d481176994a76afa6f312b4e8a78/material-1.1.0/res/layout/mtrl_picker_header_fullscreen.xml:36
+-keep class com.google.android.material.button.MaterialButton { <init>(...); }
+
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ae67d481176994a76afa6f312b4e8a78/material-1.1.0/res/layout/test_action_chip.xml:17
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ae67d481176994a76afa6f312b4e8a78/material-1.1.0/res/layout/test_reflow_chipgroup.xml:25
+-keep class com.google.android.material.chip.Chip { <init>(...); }
+
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ae67d481176994a76afa6f312b4e8a78/material-1.1.0/res/layout/test_reflow_chipgroup.xml:19
+-keep class com.google.android.material.chip.ChipGroup { <init>(...); }
+
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ae67d481176994a76afa6f312b4e8a78/material-1.1.0/res/layout/mtrl_calendar_month.xml:18
+-keep class com.google.android.material.datepicker.MaterialCalendarGridView { <init>(...); }
+
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_doctor_profile.xml:156
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_patient_profile.xml:89
+-keep class com.google.android.material.floatingactionbutton.FloatingActionButton { <init>(...); }
+
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ae67d481176994a76afa6f312b4e8a78/material-1.1.0/res/layout/design_bottom_navigation_item.xml:27
+-keep class com.google.android.material.internal.BaselineLayout { <init>(...); }
+
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ae67d481176994a76afa6f312b4e8a78/material-1.1.0/res/layout/design_text_input_end_icon.xml:18
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ae67d481176994a76afa6f312b4e8a78/material-1.1.0/res/layout/design_text_input_start_icon.xml:18
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ae67d481176994a76afa6f312b4e8a78/material-1.1.0/res/layout/mtrl_picker_header_toggle.xml:18
+-keep class com.google.android.material.internal.CheckableImageButton { <init>(...); }
+
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ae67d481176994a76afa6f312b4e8a78/material-1.1.0/res/layout/design_navigation_item.xml:17
+-keep class com.google.android.material.internal.NavigationMenuItemView { <init>(...); }
+
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ae67d481176994a76afa6f312b4e8a78/material-1.1.0/res/layout/design_navigation_menu.xml:17
+-keep class com.google.android.material.internal.NavigationMenuView { <init>(...); }
+
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/home_screen_main.xml:16
+-keep class com.google.android.material.navigation.NavigationView { <init>(...); }
+
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ae67d481176994a76afa6f312b4e8a78/material-1.1.0/res/layout/design_layout_snackbar.xml:18
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ae67d481176994a76afa6f312b4e8a78/material-1.1.0/res/layout/mtrl_layout_snackbar.xml:18
+-keep class com.google.android.material.snackbar.Snackbar$SnackbarLayout { <init>(...); }
+
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ae67d481176994a76afa6f312b4e8a78/material-1.1.0/res/layout/design_layout_snackbar_include.xml:18
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ae67d481176994a76afa6f312b4e8a78/material-1.1.0/res/layout/mtrl_layout_snackbar_include.xml:18
+-keep class com.google.android.material.snackbar.SnackbarContentLayout { <init>(...); }
+
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ae67d481176994a76afa6f312b4e8a78/material-1.1.0/res/layout/mtrl_picker_text_input_date.xml:31
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ae67d481176994a76afa6f312b4e8a78/material-1.1.0/res/layout/mtrl_picker_text_input_date_range.xml:32
+-keep class com.google.android.material.textfield.TextInputEditText { <init>(...); }
+
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_bank_account_details.xml:11
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_doctor_profile_edit.xml:15
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_doctor_profile_filling.xml:15
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_patient_details_filling.xml:11
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_patient_profile_editing.xml:11
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ae67d481176994a76afa6f312b4e8a78/material-1.1.0/res/layout/mtrl_picker_text_input_date.xml:26
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ae67d481176994a76afa6f312b4e8a78/material-1.1.0/res/layout/mtrl_picker_text_input_date_range.xml:26
+-keep class com.google.android.material.textfield.TextInputLayout { <init>(...); }
+
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ae67d481176994a76afa6f312b4e8a78/material-1.1.0/res/layout/text_view_with_line_height_from_appearance.xml:17
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ae67d481176994a76afa6f312b4e8a78/material-1.1.0/res/layout/text_view_with_line_height_from_layout.xml:17
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ae67d481176994a76afa6f312b4e8a78/material-1.1.0/res/layout/text_view_with_line_height_from_style.xml:17
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ae67d481176994a76afa6f312b4e8a78/material-1.1.0/res/layout/text_view_with_theme_line_height.xml:17
+# Referenced at /Users/swayamkaul/.gradle/caches/transforms-2/files-2.1/ae67d481176994a76afa6f312b4e8a78/material-1.1.0/res/layout/text_view_without_line_height.xml:17
+-keep class com.google.android.material.textview.MaterialTextView { <init>(...); }
+
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_booking_edit.xml:101
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_chat_screen.xml:44
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_chat_screen_point.xml:25
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_doctor_profile.xml:42
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/home_screen_header.xml:15
+-keep class com.mikhaellopez.circularimageview.CircularImageView { <init>(...); }
+
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/login_intro_slide1.xml:48
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/login_intro_slide2.xml:48
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/login_intro_slide3.xml:48
+-keep class pl.droidsonroids.gif.GifImageView { <init>(...); }
+
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_chat_screen.xml:61
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_chat_screen_point.xml:39
+-keepclassmembers class * { *** EndSession(android.view.View); }
+
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_appointment_display_for_doctors.xml:26
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_appointment_display_for_patients.xml:25
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_booking_edit.xml:25
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_doctors_list.xml:25
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/custom_app_bar.xml:20
+-keepclassmembers class * { *** backPressed(android.view.View); }
+
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_booking.xml:79
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_booking_edit.xml:173
+-keepclassmembers class * { *** book(android.view.View); }
+
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_bank_account_details.xml:104
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_doctor_profile_edit.xml:273
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_doctor_profile_filling.xml:273
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_patient_details_filling.xml:138
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_patient_profile_editing.xml:138
+-keepclassmembers class * { *** doneClicked(android.view.View); }
+
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_doctor_profile.xml:167
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_patient_profile.xml:89
+-keepclassmembers class * { *** editProfile(android.view.View); }
+
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/login_intro_screen.xml:37
+-keepclassmembers class * { *** moveToLogin(android.view.View); }
+
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/home_screen_content.xml:26
+-keepclassmembers class * { *** openDrawer(android.view.View); }
+
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_chat_screen.xml:97
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_chat_screen_point.xml:94
+-keepclassmembers class * { *** sendChat(android.view.View); }
+
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_doctor_profile.xml:156
+-keepclassmembers class * { *** shareContact(android.view.View); }
+
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_login.xml:104
+-keepclassmembers class * { *** signUpClicked(android.view.View); }
+
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_doctor_profile_edit.xml:242
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_doctor_profile_filling.xml:242
+-keepclassmembers class * { *** uploadAdharClicked(android.view.View); }
+
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_doctor_profile_edit.xml:228
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_doctor_profile_filling.xml:228
+-keepclassmembers class * { *** uploadDpclicked(android.view.View); }
+
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_doctor_profile_edit.xml:256
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_doctor_profile_filling.xml:256
+-keepclassmembers class * { *** uploadLicenseClicked(android.view.View); }
+
