@@ -1,4 +1,4 @@
-#Tue Jul 14 18:20:03 IST 2020
+#Fri Jul 17 00:54:14 IST 2020
 base.0=/Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/build/intermediates/dex/release/shrunkDex/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

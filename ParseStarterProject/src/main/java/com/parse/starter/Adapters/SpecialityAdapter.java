@@ -40,8 +40,13 @@ public class SpecialityAdapter extends RecyclerView.Adapter<SpecialityAdapter.Vi
             holder.text.setText(specialities.get(position));
             holder.text.setAllCaps(true);
             Log.i("Text","SET!!");
-            holder.icon.setImageBitmap(images.get(position));
-            Log.i("Image","SET!!!!!!!");
+            try {
+                holder.icon.setImageBitmap(images.get(position));
+                Log.i("Image", "SET!!!!!!!");
+            }
+            catch (Exception e){
+                e.printStackTrace();
+        }
     }
 
     @Override

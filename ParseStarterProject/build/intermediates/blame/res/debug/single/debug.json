@@ -24,12 +24,12 @@
         "source": "/Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/build/intermediates/res/merged/debug/layout_custom_app_bar.xml.flat",
-        "source": "/Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/custom_app_bar.xml"
-    },
-    {
         "merged": "/Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
         "source": "/Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/build/intermediates/res/merged/debug/layout_custom_app_bar.xml.flat",
+        "source": "/Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/custom_app_bar.xml"
     },
     {
         "merged": "/Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/build/intermediates/res/merged/debug/drawable_default_dots.xml.flat",

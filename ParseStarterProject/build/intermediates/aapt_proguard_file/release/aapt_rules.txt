@@ -224,7 +224,7 @@
 -keep class androidx.mediarouter.app.OverlayListView { <init>(...); }
 
 # Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_booking.xml:104
-# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_booking_edit.xml:161
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_booking_edit.xml:166
 # Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_chat_screen_point.xml:80
 # Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_doctors_list.xml:62
 # Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/home_screen_content.xml:64
@@ -348,7 +348,7 @@
 -keepclassmembers class * { *** backPressed(android.view.View); }
 
 # Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_booking.xml:79
-# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_booking_edit.xml:173
+# Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_booking_edit.xml:146
 -keepclassmembers class * { *** book(android.view.View); }
 
 # Referenced at /Users/swayamkaul/Desktop/Dr.HomeBeta2Done-master/ParseStarterProject/src/main/res/layout/activity_bank_account_details.xml:104

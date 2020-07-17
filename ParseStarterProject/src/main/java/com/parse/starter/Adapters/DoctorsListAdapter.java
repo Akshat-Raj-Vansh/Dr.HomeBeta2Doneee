@@ -45,7 +45,11 @@ public class DoctorsListAdapter extends RecyclerView.Adapter<DoctorsListAdapter.
     @Override
     public void onBindViewHolder(@NonNull ViewHolder holder, int position) {
             holder.name.setText(names.get(position));
-            holder.avt.setImageBitmap(images.get(position));
+            try {
+                holder.avt.setImageBitmap(images.get(position));
+            }catch (Exception e){
+                e.printStackTrace();
+            }
             holder.details.setText("Experience: "+workExpp.get(position)+"\nPrice:"+PricePerSessionn.get(position));
     }
 
